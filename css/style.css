@@ -4,10 +4,25 @@
     justify-content: center;
     align-content: center;
 }
+.track_name{
+    background: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.band_name{
+    background: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 1px;
+}
 .links{
     background: white;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    margin-top: 25px;
+    margin-left: 75px;
+
 }
 a{
     text-decoration: none;
