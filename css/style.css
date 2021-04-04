@@ -1,0 +1,16 @@
+.content{
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.links{
+    background: black;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    margin-right: 80px;
+    color: #ffffff;
+}
