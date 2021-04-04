@@ -1,11 +1,11 @@
 .content{
-    background: black;
+    background: white;
     display: flex;
     justify-content: center;
     align-content: center;
 }
 .links{
-    background: black;
+    background: white;
     display: flex;
     justify-content: space-around;
 }
