@@ -36,7 +36,20 @@
     justify-content: space-between;
     max-width: 900px;
 }
-
+.Social{
+    margin: 25px auto 0;
+    background: white;
+    display: flex;
+    justify-content: space-around;
+    max-width: 900px;
+}
+.social-buttons{
+    margin: 25px auto 0;
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    max-width: 900px;
+}
 a{
     display: block;
     text-decoration: none;
