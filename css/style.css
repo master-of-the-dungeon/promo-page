@@ -48,7 +48,7 @@
     background: white;
     display: flex;
     justify-content: space-between;
-    max-width: 900px;
+    max-width: 450px;
 }
 a{
     display: block;
