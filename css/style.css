@@ -47,7 +47,7 @@
     margin: 25px auto 0;
     background: white;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     max-width: 450px;
 }
 a{
